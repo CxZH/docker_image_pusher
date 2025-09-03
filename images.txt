@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openwrt/imagebuilder:x86-geode
+crazygit/lean-openwrt-x86-64
