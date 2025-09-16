@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-crazygit/lean-openwrt-x86-64
+olbat/cupsd:2025-09-15
