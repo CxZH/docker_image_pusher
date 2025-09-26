@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-jc21/mariadb-aria:latest
+yisier1/npc
