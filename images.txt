@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-yisier1/nps:v0.26.26
+jc21/nginx-proxy-manager:latest
