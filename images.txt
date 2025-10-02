@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-linuxserver/wireguard:1.0.20250521
+ghcr.io/nextcloud-releases/all-in-one:latest
